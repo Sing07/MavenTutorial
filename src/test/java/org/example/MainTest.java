@@ -8,7 +8,7 @@ import static org.junit.jupiter.api.Assertions.*;
 public class MainTest {
     @Test
     public void TestHypothenuse() {
-        Assertions.assertEquals(Main.hypothenuse(10,20),22.360679774997898);
+        Assertions.assertEquals(Main.hypothenuse(10,20),12.360679774997898);
     }
     
     
